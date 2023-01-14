@@ -1,0 +1,5 @@
+/Users/eric/Desktop/R11922138_a4/CSIE5437-Assignment-4/build/CMakeFiles/my_library.dir
+/Users/eric/Desktop/R11922138_a4/CSIE5437-Assignment-4/build/CMakeFiles/main.dir
+/Users/eric/Desktop/R11922138_a4/CSIE5437-Assignment-4/build/CMakeFiles/bootstrap.dir
+/Users/eric/Desktop/R11922138_a4/CSIE5437-Assignment-4/build/CMakeFiles/edit_cache.dir
+/Users/eric/Desktop/R11922138_a4/CSIE5437-Assignment-4/build/CMakeFiles/rebuild_cache.dir
